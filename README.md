@@ -5,7 +5,7 @@ Bayesian spam filtering is a technique based on statistics for of e-mail classif
 
 ###Training of Spam and Ham pickle
 
-This classifier makes use of public dataset released by Enron Corporation. With over 17000 Spam mails and 15000 Ham mails, enron corpus is trained by Navive Bayes Classifier. The pivot feature of this approach is the words. Bag of words is created with frequency distibution of them in ham and spam mails. The trained dump is stored in a pickle file.
+This classifier makes use of public dataset released by Enron Corporation. With over 17000 Spam mails and 15000 Ham mails, enron corpus is trained by Naive Bayes Classifier. The pivot feature of this approach is the words. Bag of words is created with frequency distribution  of them in ham and spam mails. The trained dump is stored in a pickle file.
 
 ###Spamicity
 
